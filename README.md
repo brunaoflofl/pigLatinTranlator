@@ -1,11 +1,12 @@
 # pigLatinTranlator
 
 
-        #Expected:
-        #Imput: Insert word to translate: Oi, tudo bem? meu nome é Bruna.
-        #Output: Translation: Oiyay, udotay embay? eumay omenay éyay Unabay.
+# Expected:
 
-       #RULES:
+        Imput: Insert word to translate: Oi, tudo bem? meu nome é Bruna.
+        Output: Translation: Oiyay, udotay embay? eumay omenay éyay Unabay.
+
+# RULES:
        
        DONE -  1. If a word has no letters, don't translate it.
        DONE -  2. All punctuation should be preserved.
